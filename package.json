@@ -1,0 +1,28 @@
+{
+  "name": "brackets-stylint",
+  "version": "1.0.0",
+  "description": "Stylint Brackets Extension",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGonzalezDesigns/Brackets-Stylint.git"
+  },
+  "keywords": [
+    "Brackets",
+    "Stylint",
+    "Extension"
+  ],
+  "author": "Hugo D. Gonzalez R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGonzalezDesigns/Brackets-Stylint/issues"
+  },
+  "homepage": "https://github.com/TheGonzalezDesigns/Brackets-Stylint#readme",
+  "dependencies": {
+    "stylint-stylish": "^1.3.2",
+    "stylint-teamcity-reporter": "0.0.3"
+  }
+}
